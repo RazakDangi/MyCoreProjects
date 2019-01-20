@@ -1,0 +1,2 @@
+vector graphics and raster
+defined using lines and shapes and their positions related to each other
